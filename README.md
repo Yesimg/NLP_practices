@@ -1,4 +1,4 @@
-# NLP_practices
+# Twitter Sentiment Analysis Dataset
 
 ### Dataset source:
 https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
